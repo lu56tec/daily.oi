@@ -1,0 +1,27 @@
+body {
+    background: rgb(255, 175, 226);
+    font-family: "Bebas Neue", sans-serif;
+}
+
+header {
+    font-size: 40px;
+    border-left: solid 315px rgb(255, 175, 226);
+    border-right: solid 315px rgb(255, 175, 226);
+}
+
+p3 {
+    border-left: solid 315px rgb(255, 175, 226);
+    border-right: solid 315px rgb(255, 175, 226);
+    border-top: solid 2px rgb(255, 175, 226);
+}
+
+p5 {
+    font-size: 51px;
+    color: black;
+    border-left: solid 328px rgb(255, 175, 226);
+}
+
+#dov {
+   display: flex;
+   justify-content: center;
+}
